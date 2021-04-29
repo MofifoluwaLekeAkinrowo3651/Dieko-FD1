@@ -1,0 +1,2 @@
+include ':DiekoFinalD2'
+rootProject.name = "DiekoFinalD1"
